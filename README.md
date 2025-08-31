@@ -1,1 +1,1 @@
-# Vendor-Performance-Analysis-SQL-Python-PowerBi
+# 🧾 Vendor Performance Analysis – Retail Inventory & Sales
