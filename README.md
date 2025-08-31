@@ -41,13 +41,9 @@ This project automates **data ingestion, transformation, and visualization**, en
 ---
 
 ## 🔹 Tools & Technologies  
-| Stage               | Tool / Technology           |
-|----------------------|-----------------------------|
-| Data Ingestion       | SQLite, Python (Pandas)     |
-| Data Transformation  | SQL, Python                 |
-| Analysis             | Pandas, SQL queries         |
-| Visualization        | Power BI dashboard          |
-| Reporting            | Automated CSVs & PDF export |
+- SQL (Common Table Expressions, Joins, Filtering)
+- Python (Pandas, Matplotlib, Seaborn, SciPy)
+- Power BI (Interactive Visualizations)
 
 ---
 
