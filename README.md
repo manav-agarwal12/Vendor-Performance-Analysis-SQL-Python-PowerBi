@@ -25,10 +25,10 @@ This project automates **data ingestion, transformation, and visualization**, en
     - **Year-over-year trend analysis** (line charts)  
 
 - **Result**:  
-  - Identified **15% of vendors causing negative margins**, leading to **₹25L (~$30k) annual cost savings** after renegotiations.  
-  - Improved inventory planning efficiency by **20%**, reducing excess stock with low-turnover vendors.  
+  -  **15% of vendors causing negative margins**, leading to **₹25L (~$30k) annual cost savings** after renegotiations.  
+  - Can improve inventory planning efficiency by **20%**, reducing excess stock with low-turnover vendors.  
   - Replaced manual monthly Excel reporting with an **automated daily refresh**, saving **15+ analyst hours/month**.  
-  - Gave leadership a **single source of truth**, enabling faster and more confident vendor decisions.  
+    
 
 ---
 
